@@ -1,4 +1,4 @@
-# SQL
+# SQL (Patika.dev Eğitimi)
 
 ## ÖDEV 1
 
